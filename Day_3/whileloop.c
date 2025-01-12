@@ -1,16 +1,16 @@
-#include<stdio.h> //(WHILE LOOP)
+#include<stdio.h> //(WHILE LOOP) //program to print the digits from 1 to 100.
 int main(){
-	/*int i=1;
+	int i=1;
 	
 	while(i<=100)
 	{ 
 	 printf("%d\n",i);
 	 i++;
 	}
-}*/
+}
 
 
-//WAP TO PRINT number OF DIGITS
+//WAP TO PRINT number OF entered DIGITS
 /*int n,count=0;
 printf("Enter the value of n: ");
 scanf("%d",&n);
