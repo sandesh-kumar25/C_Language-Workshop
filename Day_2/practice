@@ -1,1 +1,12 @@
-
+#include<stdio.h> // Practice of opeartors 
+void main(){
+	int a;
+	printf("Enter your age:");
+	scanf("%d",&a);
+	c=a+b;
+	d=a-b;
+	e=a*b;
+	f=a^b;
+	g=~a;
+	printf("sum is=%d,difference=%d\n,multiplication=%d\n,XOR is=%d,",c,d,e,f);
+	return 0;
