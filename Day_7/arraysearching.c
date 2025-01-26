@@ -20,11 +20,11 @@ int main(){
 		  printf("\nPosition of element in array is %d:",++i);
 		  break;
 	  }
-    }
+    
 	  if (i==n)
 	  { printf("Element not found in array");
 	  }
-    
+    }
 
 return 0;
 }
