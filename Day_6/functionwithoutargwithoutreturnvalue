@@ -1,0 +1,16 @@
+#include<stdio.h> //without argument without return value
+
+int sum();
+int main()
+{
+	int s;
+	s=sum(); 
+	printf("Addition is =%d",s);
+	return 0;
+}
+int sum(){
+	int x,y,z;
+	printf("%d%d",&x,&y);
+	z=x+y;
+	
+}
