@@ -1,4 +1,4 @@
-//C Program to create  sum of an Array
+//C Program to reverse an array
 #include<stdio.h>
 int main()
 {
